@@ -1,15 +1,13 @@
 <h1 align="center">My name is Aflah Agus Rizkika</h1>
 <h3 align="center">A developer and long-term learner.</h3>
 
-- 🔭 I’m currently working on [Building my Portfolios](https://raaflahar.github.io/)
-
 - 👨‍💻 All of my projects are available at [https://raaflahar.github.io/](https://raaflahar.github.io/)
 
 - 📝 I regularly write articles on [https://medium.com/@raaflahar](https://medium.com/@raaflahar)
 
 - 📫 How to reach me **raaflahar@gmail.com**
 
-- 📄 Know about my experiences [https://raaflahar.github.io/](https://raaflahar.github.io/)
+- 📄 Know about my experiences & Portofolio [https://raaflahar.github.io/](https://raaflahar.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
